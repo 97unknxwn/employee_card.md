@@ -1,6 +1,6 @@
-# Визитная карточка сотрудника
+![image](https://github.com/97unknxwn/employee_card.md/assets/154244919/5ad6de9b-573e-445b-80bf-e58b08481f9d)# Визитная карточка сотрудника
 employee_card.md
-![Фото сотрудника](https://www.google.com/url?sa=i&url=https%3A%2F%2Fswfanon.fandom.com%2Fru%2Fwiki%2F%25D0%25A2%25D0%25BE%25D0%25BD%25D0%25B8_%25D0%25A1%25D1%2582%25D0%25B0%25D1%2580%25D0%25BA&psig=AOvVaw0qoNAn1g0EZxnI0Hx_rCbd&ust=1703244830192000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMipq4S4oIMDFQAAAAAdAAAAABAD)
+![Фото сотрудника](https://img.goodfon.ru/original/1920x1080/3/d9/tony-stark-robert-downey-jr-toni-stark-robert-dauni-mladshch.jpg)
 - **Фамилия:** Иванов
 - **Имя:** Иван
 - **Отчество:** Иванович
